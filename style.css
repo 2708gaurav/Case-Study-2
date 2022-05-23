@@ -1,0 +1,43 @@
+p{
+    color: red;
+    letter-spacing: 2px;
+    font-size: 15px;
+}
+
+.mobilenet{
+    letter-spacing: 2px;
+}
+
+.google_lens{
+    letter-spacing: 2px;
+}
+
+img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 300px;
+    border-radius: 10px;
+}
+
+span{
+    letter-spacing: 2px;
+}
+
+b{
+    color: purple;
+}
+
+.google_lens{
+    color: black;
+}
+
+h4{
+    color: white;
+    font-weight: bold;
+}
+
+.test_image_and_result{
+    margin-top: 15px;
+    background-color: rgb(155, 153, 153);
+    
+}
